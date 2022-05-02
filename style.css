@@ -3,7 +3,7 @@
     margin-left: 40px;
     background-color:white;
     margin-right: 40px;
-    height: 2690px;
+    height: 2720px;
     border-style: solid;
     border-width: 50px;
     border-color: rgb(241,234,234);
@@ -87,16 +87,19 @@ margin-top: -30px;
     border-style: none;  
     margin-left: 90px;
     margin-top: 40px;
+    margin-bottom: 20px;
+    box-shadow: 0px 10px 10px 10px rgb(207, 211, 214);
 }
 .btns{
     height: 40px;
     width: 120px;
     border-radius: 20px;
-    color: white;
-    background-color: white;
+    box-shadow: 0px 10px 10px 10px rgb(242, 246, 247);
+    background-color: rgb(243, 234, 234);
     border-style: none;  
     margin-left: 90px;
     margin-top: 40px; 
+    padding-top: 6px;
 }
 #black1 img{
     margin-left: 450px;
