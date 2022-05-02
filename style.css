@@ -396,7 +396,7 @@ input[type=text], select,textarea {
     border-radius: 4px;
     box-sizing: border-box;
     margin-left: 90px;
-    background-color: rgb(254,248,248);
+    background-color: rgb(218, 182, 182);
   }
   label{
       margin-left: 90px;
